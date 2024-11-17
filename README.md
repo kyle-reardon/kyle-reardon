@@ -1,5 +1,5 @@
 Hey, I’m Kyle Reardon 👋 welcome to my GitHub!  
-🎓 I'm a recent graduate from QUT with a Master of Data Analytics, combining a background in finance with data science.  
+🎓 I've got a Master of Data Analytics from QUT, combining a background in finance with data science.  
 🏆 I received the QUT Executive Deans' Commendation for Academic Excellence each semester of my Master's degree.   
 👀 I'm passionate about statistics, machine learning, and financial markets.  
 🛠 I have a diverse technical skillset that blends programming, statistical modelling and machine learning with strong financial acumen.  
